@@ -1,7 +1,7 @@
 ### Hi there!
 
 I currently work on azure
-<!--![](giphy.gif-of-giphy.gif)
+<!--![](giphy.gif)
 
 
 <!--![](giphy.gif-of-giphy.gif)
