@@ -1,6 +1,6 @@
 ### Hi there!
-![](giphy.gif-of-giphy.gif)
-<!--
+
+<!--![](giphy.gif-of-giphy.gif)
 **ManojG13/ManojG13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
