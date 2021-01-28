@@ -1,6 +1,6 @@
 ### Hi there!
 ### I'm Manoj, a University graduate majored in CS who wants to work on products which can create an impact.
-<img align="right" src="Assets/asset.gif" width="450" height="250"/>
+<img align="right" src="Assets/asset.gif" width="300" height="300"/>
 
 - 🌱 I’m currently learning *Azure applications involving storage, compute services, security & monitoring.*
 - 👯 I’m looking to collaborate on products which can impact billions of users.
