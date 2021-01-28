@@ -12,6 +12,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/manoj_gogu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="manoj_gogu" height="30" width="40" /></a>
+<a href="https://twitter.com/manoj_gogu" target="blank"><img align="center" src="https://raw.githubusercontent.com/ManojG13/ManojG13/6b353e665b081e7a900d5843ba3d2d9a13f03636/Assets/twitter.svg" alt="manoj_gogu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/manojgogu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="manojgogu" height="30" width="40" /></a>
 </p>
